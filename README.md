@@ -8,7 +8,7 @@ This repository contains a backtracking-based algorithm to solve the Fold-It boa
 Check out a [Python app demo]() using PyInstaller to see the game in action (available for Windows).
 
 <video width="560" height="315" controls>
-  <source src="gui_demo.mp4" type="video/mp4">
+  <source src="https://github.com/ianchaulh/fold-it-solver/blob/main/gui_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
